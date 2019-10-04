@@ -7,6 +7,6 @@
 - [ ] 总结前端面试题
 - [ ] 学习uni-app
 - [ ] 做一个uni-app小程序
-- [ ] 学习react全家桶
+- [x] 学习react全家桶
 - [ ] 做一个react项目
 
