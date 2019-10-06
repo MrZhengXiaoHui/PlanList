@@ -8,5 +8,5 @@
 - [ ] 学习uni-app
 - [ ] 做一个uni-app小程序
 - [x] 学习react全家桶
-- [ ] 做一个react项目
+- [x] 做一个react项目
 
