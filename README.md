@@ -3,7 +3,7 @@
 ## 2019年
 
 - [x] 总结前端面试题
-- [ ] 学习uni-app
+- [x] 学习uni-app
 - [ ] 做一个uni-app小程序
 - [x] 学习react全家桶
 - [x] 做一个react项目
